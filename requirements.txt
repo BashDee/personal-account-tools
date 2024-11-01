@@ -1,2 +1,2 @@
-python
-fastapi[standard]
+
+"fastapi[standard]"
